@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.caesarchan.gop.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.caesarchan.gop.MyBundle
 
 class MyApplicationService {
 
